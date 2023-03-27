@@ -3,7 +3,7 @@
 <a href="https://storyset.com/work">Work illustrations by Storyset</a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doniazed-ezzine&label=Profile%20views&color=0e75b6&style=flat" alt="doniazed-ezzine" /> </p>
 
-- 💬 Ask me about **Angular ,JavaScript, Java, .NetCore**
+- 💬 Ask me about **Angular,JavaScript,Java,.NetCore and Python**
 
 - 📫 How to reach me **doniazed.ezzine@gmail.com**
 
