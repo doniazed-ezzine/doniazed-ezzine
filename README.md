@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Doniazed</h1>
 <h3 align="center">A passionate software engineer from Tunisia</h3>
-<a href="https://storyset.com/work">Work illustrations by Storyset</a>
+<a href="https://storyset.com/illustration/hand-coding/rafiki/animate?share=62515">Work illustrations by Storyset</a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doniazed-ezzine&label=Profile%20views&color=0e75b6&style=flat" alt="doniazed-ezzine" /> </p>
 
-- 💬 Ask me about **Angular,JavaScript,Java,.NetCore and Python**
+- 💬 Ask me about **Angular ,JavaScript, Java, .NetCore**
 
 - 📫 How to reach me **doniazed.ezzine@gmail.com**
 
