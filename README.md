@@ -2,6 +2,10 @@
 <h3 align="center">A passionate software engineer from Tunisia</h3>
 
  <img src="https://img.freepik.com/free-vector/young-woman-uses-computer-work-reduce-infection_1150-34985.jpg?w=740&t=st=1679962039~exp=1679962639~hmac=a6aec0114fe6de2711aabb0bc44e3e1fe6efaf6a81091256f87ddd4fc9d7d4d5" height="300" width="300" align="right"  /> 
+ 
+- 🔭 I’m currently working on **Flight Booking System Using Springboot and Angular**
+
+- 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **Angular,JavaScript,Java,.NetCore and Python**
 
