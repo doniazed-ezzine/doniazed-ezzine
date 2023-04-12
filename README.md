@@ -5,7 +5,7 @@
  
 - 🔭 I’m currently working on **Flight Booking System Using Springboot and Angular**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **DevSecOps**
 
 - 💬 Ask me about **Angular,JavaScript,Java,.NetCore and Python**
 
